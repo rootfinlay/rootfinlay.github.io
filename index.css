@@ -6,7 +6,7 @@ body {
   font-family: 'Sawarabi Mincho', cursive;
   font-size: 30px;
   color: black;
-  text-align: left;
+  text-align: center;
   text-indent: 50px;
 }
 .oldlink {
@@ -20,7 +20,7 @@ body {
   font-family: 'Sawarabi Mincho', cursive;
   font-size: 30px;
   color: black;
-  text-align: left;
+  text-align: center;
   text-indent: 50px
 }
 .title1 {
@@ -44,9 +44,8 @@ body {
   position: relative;
 }
 .logo {
-  position: absolute;
-  background-position: bottom;
-  text-align: right;
+  text-align: center;
+  box-shadow: 8px;
 }
 @keyframes title1 {
   0% {color: black}

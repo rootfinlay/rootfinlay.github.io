@@ -1,0 +1,24 @@
+====================================
+List of successfully backed up files:
+====================================
+2.css
+2.html
+aMessage.mp3
+Ceremony.png
+culture.html
+index.html
+nothing.txt
+Psi.css
+Psi.gif
+Survival.jpg
+Wake.up
+warning.gif
+Waves.png
+====================================
+1 file couldn't be backed up:
+====================================
+congratulations.html
+====================================
+For recovery options see the full
+log at logs.txt
+====================================

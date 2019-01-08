@@ -1,0 +1,68 @@
+body {
+  text-align: center;
+  margin: 0px;
+}
+.puzzle {
+  font-family: 'Sawarabi Mincho', cursive;
+  font-size: 30px;
+  color: black;
+  text-align: left;
+  text-indent: 50px;
+}
+.oldlink {
+  font-family: 'Sawarabi Mincho', cursive;
+  font-size: 30px;
+  color: black;
+  text-align: left;
+  text-indent: 50px;
+}
+.stamp {
+  font-family: 'Sawarabi Mincho', cursive;
+  font-size: 30px;
+  color: black;
+  text-align: left;
+  text-indent: 50px
+}
+.title1 {
+  font-size: 60px;
+  color: white;
+  padding: 20px;
+  background-color: black;
+  font-family: Montserrat;
+  letter-spacing: 20px;
+  margin: 0;
+  animation-name: title1;
+  animation-duration: 5s;
+}
+.title2 {
+  font-size: 30px;
+  font-family: Montserrat;
+  margin: 10px;
+  color: black;
+  animation-name: title2;
+  animation-duration: 6s;
+  position: relative;
+}
+.logo {
+  position: absolute;
+  background-position: bottom;
+  text-align: right;
+}
+@keyframes title1 {
+  0% {color: black}
+  100% {color: white}
+}
+@keyframes title2 {
+  0% {color: white}
+  50% {color: white; top: 30px;}
+  100% {color: black; top: 0px;}
+}
+@keyframes logo {
+  0% {filter: blur(1000px)}
+  60% {filter: blur(1000px)}
+  100% {filter: blur(0px)}
+}
+@keyframes spin {
+  0% {transform: rotate(0deg)}
+  100% {transform: rotate(-360deg)};
+}

@@ -1,0 +1,7 @@
+There is a hidden directory on this webserver, when it is encrypted, the output is
+
+/jvyypkvyvul/yvvtvul.oats
+
+Find out how it is encrypted and decrypt it to move on to the next puzzle,
+
+~A

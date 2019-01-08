@@ -1,0 +1,36 @@
+.offline {
+  margin: 0;
+  color: red;
+  font-size: 40px;
+  font-family: Montserrat;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  animation-name: offline;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+.first {
+  width: 120px;
+  position: absolute;
+  left: 10%;
+  top: 49%;
+  transform: translate(-50%, -50%);
+}
+.second {
+  width: 120px;
+  position: absolute;
+  left: 90%;
+  top: 49%;
+  transform: translate(-50%, -50%);
+}
+@keyframes offline {
+  0% {color: black}
+  50% {color: red}
+  100% {color: black}
+}

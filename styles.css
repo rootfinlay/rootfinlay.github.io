@@ -26,3 +26,12 @@ li a {
 li {
   float: left;
 }
+.tutorials {
+  font-family: 'Inconsolata', monospace;
+  color: white;
+  padding-left: 50px
+  text-align: center;
+}
+.tutorial-title {
+  font-size: 25px
+}

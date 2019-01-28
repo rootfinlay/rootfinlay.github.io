@@ -6,8 +6,6 @@ body {
   font-size: 45px;
   text-align: center;
   font-family: 'Roboto Mono', monospace;
-  animation-name: indextitle;
-  animation-duration: 3s;
 }
 @keyframes indextitle {
   0% {color: black}

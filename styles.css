@@ -66,3 +66,9 @@ a {
   text-decoration: none;
   font-family: 'Inconsolata', monospace;
 }
+.linux-install-title {
+  font-size: 25px;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  padding-left: 15px;
+  padding-top: 10px;

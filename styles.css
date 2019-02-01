@@ -72,3 +72,10 @@ a {
   font-family: 'Inconsolata', monospace;
   padding-left: 15px;
   padding-top: 10px;
+}
+.coming-soon {
+  color: white;
+  font-size: 75px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}

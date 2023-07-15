@@ -1,0 +1,15 @@
+v0.2.1.1
+*Added frontend reply for URL Injection detection.
+
+v0.2.1
+*Sanitized URL inputs
+
+v0.2.0
+*Added rubber hose protection
+*Changed key initiation
+*Optimised some code
+*Added basic "sessions"
+
+v0.1.0 - The first commit!
+*Added base foundation, keygen, daemon, sendmessage, readmessage
+

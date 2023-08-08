@@ -1,3 +1,6 @@
+v0.2.2
+*Removes local copy of encrypted message after sending a message
+
 v0.2.1.1
 *Added frontend reply for URL Injection detection.
 

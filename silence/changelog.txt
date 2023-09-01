@@ -1,3 +1,17 @@
+v0.4.0 - The Username update!
+*Added username feature (still need to initiate with onion url, for now)
+*Added some more checks and changes when it comes to content shared through requests
+*Added contacts file
+
+v0.3.1
+*Small bugfix
+
+v0.3.0 - The one liner update
+*Updated the way Silence is installed and stored on the system
+*Made installing Silence significantly easier
+*Added some more checks on running different commands in silence
+*Updated README
+
 v0.2.2
 *Removes local copy of encrypted message after sending a message
 

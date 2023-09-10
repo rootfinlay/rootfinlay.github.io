@@ -1,3 +1,6 @@
+v0.4.1
+* Made it so username is taken during install, makes it easier for new Linux users.
+
 v0.4.0 - The Username update!
 *Added username feature (still need to initiate with onion url, for now)
 *Added some more checks and changes when it comes to content shared through requests
